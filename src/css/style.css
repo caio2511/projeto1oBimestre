@@ -1,0 +1,16 @@
+
+.imagens-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu-navegacao a{
+    padding: 10px; 
+}
+.link1{
+    margin-left: 10px;
+}
+.menu-navegacao{
+    display: flex;
+    justify-content: center;
+}
