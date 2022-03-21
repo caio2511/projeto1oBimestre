@@ -28,27 +28,3 @@ html body{
     color: rgb(255, 217, 0);
 
 }
-.spSobreMim1{
-    font-weight: bolder;
-    font-size: 80pt;
-}
-.spSobreMim2{
-    font-size: 35pt;
-}
-.sobre-mim-textos
-{
-    margin-left: 10%;
-    padding-bottom: 20%;
-    
-}
-.wagnao{
-    width: 600px;
-    
-}
-.sobre-mim{
-    margin-top: 10%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-
-}
