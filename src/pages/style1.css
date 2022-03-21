@@ -28,3 +28,23 @@ html body{
     color: rgb(255, 217, 0);
 
 }
+form{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.login-matricula{
+    display: flex;
+    flex-direction: column;
+    width: 225px;
+}
+.login-matricula input{
+    box-sizing: border-box;
+    box-shadow: none;
+    outline-color: #0051FF;
+}
+form .login-matricula label{
+    justify-content: center;
+    align-items: center;
+}
