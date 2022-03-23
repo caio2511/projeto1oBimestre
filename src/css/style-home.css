@@ -29,26 +29,24 @@ html body{
 
 }
 .spSobreMim1{
+    margin-top: 50%;
     font-weight: bolder;
-    font-size: 80pt;
+    font-size: 50pt;
 }
 .spSobreMim2{
-    font-size: 35pt;
+    margin-top: 50%;
+    font-size: 17pt;
 }
 .sobre-mim-textos
 {
-    margin-left: 10%;
-    padding-bottom: 20%;
-    
 }
 .wagnao{
-    width: 600px;
+    width: 450px;
     
 }
 .sobre-mim{
-    margin-top: 10%;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-
+    justify-content: center;
+    align-items: center;
 }
