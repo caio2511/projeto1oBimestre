@@ -2,7 +2,14 @@
 html body{
     font-family: 'Roboto', sans-serif;
 }
-
+header{
+    height: 150px;
+}
+#topo{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
 .imagens-header{
     display: flex;
     align-items: center;
@@ -12,7 +19,7 @@ html body{
     padding: 10px;
     text-decoration: none;
     color: rgb(255, 255, 255);
-
+    
 }
 .link1{
     margin-left: 10px;
