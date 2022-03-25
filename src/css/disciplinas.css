@@ -1,3 +1,7 @@
+header {
+    min-height: 150px;
+    max-width: auto;
+}
 h1 {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -14,6 +18,8 @@ h2 {
 }
 
 main {
+    min-width: 400px;
+    max-width: auto;
     background-color: rgba(245, 236, 224, 0.253);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
