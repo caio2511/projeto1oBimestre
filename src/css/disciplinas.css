@@ -7,8 +7,10 @@ h1 {
 }
 h2 {
     text-align: center;
+    padding: 5px;
     color: white;
-    background-color: rgb(0, 81, 255);
+    background-color: rgb(46, 0, 173);
+    width: 100%;    
 }
 
 main {
@@ -19,9 +21,8 @@ main {
 
 a {
     align-items: center;
-    height: 25px;
     text-decoration: none;
-    color: rgb(0, 81, 255);;
+    color: rgb(0, 53, 168);;
 }
 
 .div-links {
@@ -37,19 +38,19 @@ a {
 }
 
 #link04 {
-    margin-top: 20px;
+    margin: 5px;
 }
 
 #link02 {
-    margin-top: 20px;
+    margin: 5px;
 }
 
 #link01 {
-    margin-top: 10px;
+    margin: 5px;
 }
 
 #link03 {
-    margin-top: 10px;
+    margin: 5px;
 }
 
 .div-links a:hover {
@@ -59,6 +60,6 @@ a {
 .div-links02 a:hover {
     text-decoration: underline;
 }
-.menu-navegacao{
-    padding-bottom: ;
+.traco{
+    width: 25%;
 }
