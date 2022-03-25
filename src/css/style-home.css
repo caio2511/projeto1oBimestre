@@ -55,9 +55,6 @@ header{
     justify-content: center;
     align-items: center;
 }
-.alunos{
-    padding-top: 4%;
-}
 .spAlunos1{
     font-size: 50pt;
     font-weight: bolder;
@@ -65,13 +62,13 @@ header{
 .spAlunos2{
     font-size: 17pt;
 }
-.disciplinas{
-    padding-top: 2%;
-}
 .spDisciplinas1{
     font-size: 50pt;
     font-weight: bolder;
 }
 .spDisciplinas2{
     font-size: 17pt;
+}
+.tracado{
+    background-color: rgb(0, 81, 255);
 }
