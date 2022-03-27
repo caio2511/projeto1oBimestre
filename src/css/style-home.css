@@ -67,3 +67,11 @@ header{
 .tracado{
     background-color: rgb(0, 81, 255);
 }
+.spAvisos1{
+    margin-top: 50px;
+    font-size: 50pt;
+    font-weight: bolder;
+}
+.avisos1{
+    margin-top: 150px;
+}
