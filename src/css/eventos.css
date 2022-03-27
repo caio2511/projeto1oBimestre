@@ -1,0 +1,37 @@
+h1 {
+    background-color: rgb(0, 81, 255);
+    color: rgb(255, 255, 255);
+
+    text-align: center;
+
+    font-size: 35px;
+    margin-top: 10vh;
+}
+
+.links a{
+    display: flex;
+    justify-content: center;
+
+    margin-top: 5rem;
+
+    font-size: 25px;
+    text-decoration: none;
+
+    color: rgb(0, 81, 255);
+
+    cursor: pointer;
+}
+
+.links a:hover {
+    text-decoration: underline;
+}
+
+p {
+    margin-top: 10px;
+    text-align: center;
+    text-indent: 7px;
+}
+
+hr {
+    margin-top: 2rem;
+}

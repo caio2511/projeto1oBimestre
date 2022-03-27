@@ -2,10 +2,19 @@
 html body{
     font-family: 'Roboto', sans-serif;
 }
+#topo{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+header {
+    height: 150px;
+}
 .imagens-header{
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: rgb(255, 255, 255);
 }
 .menu-navegacao a{
     padding: 10px;

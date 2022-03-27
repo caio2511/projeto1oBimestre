@@ -3,7 +3,6 @@ h1 {
     font-size: 20px;
     color: white;
     background-color:  rgb(0, 81, 255);
-    margin-top: 4rem;
     margin: 4rem 20px 0px 20px ;
 }
 h2 {
@@ -29,3 +28,4 @@ ul {
 a:hover {
     color:rgb(0, 81, 255);
 }
+
