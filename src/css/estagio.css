@@ -1,0 +1,18 @@
+h1 {
+    text-transform: uppercase;
+}
+
+.texto h1 {
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    background-color: rgb(0, 81, 255);
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.texto li {
+    text-align: left;
+    margin-top: 20px;
+}
