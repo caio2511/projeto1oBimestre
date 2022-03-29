@@ -23,6 +23,7 @@ form{
     background-color:  rgb(0, 81, 255);
     border-radius: 5px;
     cursor: pointer;
+    padding: 10px;
 }
 
 .title a:hover{
