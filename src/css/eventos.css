@@ -21,6 +21,9 @@ h1 {
 
     cursor: pointer;
 }
+html{
+    scroll-behavior: smooth;
+}
 
 .links a:hover {
     text-decoration: underline;

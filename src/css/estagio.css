@@ -16,3 +16,6 @@ h1 {
     text-align: left;
     margin-top: 20px;
 }
+html{
+    scroll-behavior: smooth;
+}

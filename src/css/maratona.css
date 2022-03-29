@@ -9,7 +9,9 @@ h1 {
     text-align: center;
     
 }
-
+html{
+    scroll-behavior: smooth;
+}
 p {
     text-align: center;
 

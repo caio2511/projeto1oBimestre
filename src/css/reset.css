@@ -37,6 +37,9 @@ ol, ul {
 blockquote, q {
 	quotes: none;
 }
+html{
+    scroll-behavior: smooth;
+}
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';

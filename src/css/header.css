@@ -10,6 +10,9 @@ html body{
 header {
     height: 150px;
 }
+html{
+    scroll-behavior: smooth;
+}
 .imagens-header{
     display: flex;
     align-items: center;

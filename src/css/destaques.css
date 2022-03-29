@@ -18,6 +18,9 @@ h2 {
     margin-top: 20px;
     text-decoration: underline;
 }
+html{
+    scroll-behavior: smooth;
+}
 
 ul a{
     text-decoration: none;

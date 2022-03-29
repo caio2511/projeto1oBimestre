@@ -7,6 +7,9 @@
     font-size: 30px;
     margin-top: 6vh;
 }
+html{
+    scroll-behavior: smooth;
+}
 
 .img img{
     border-radius: 10px;

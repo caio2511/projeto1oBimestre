@@ -13,6 +13,9 @@
     margin: auto;
     display: block;
 }
+html{
+    scroll-behavior: smooth;
+}
 
 .par {
     text-align: center;
