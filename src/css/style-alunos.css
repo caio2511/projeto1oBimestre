@@ -11,41 +11,17 @@ form{
     top: 50%;
     transform: translate(-50%,-50%);
 }
-.login-matricula{
-    display: flex;
-    flex-direction: column;
-    width: 225px;
-}
-.login-matricula input{
-    box-sizing: border-box;
-    box-shadow: none;
-    outline-color: blue;
-    outline: none;
-    width: 7cm;
-    border: none;
-    border-bottom: 1px solid;
-    margin-bottom: 100px;
-}
-form .login-matricula label{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-}
-.login-matricula button{
-    width: 7cm;
-    border: none;
-    
-}
+
 
 .title {
-    margin-top: 40px;
+    position: absolute;
+    left: 51.5%;
+    top: 85%;
+    transform: translate(-50%,-50%);
     text-align: center;
     font-size: 30px;
     background-color:  rgb(0, 81, 255);
-    margin-left: 580px;
-    margin-right:580px;
-    border-radius: 15px;
+    border-radius: 5px;
     cursor: pointer;
 }
 
@@ -56,4 +32,30 @@ form .login-matricula label{
 .title a{
     text-decoration: none;
     color: white;
+}
+
+.login-matricula{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login-matricula input{
+    border: none;
+    outline: none;
+    width: 7cm;
+    border-bottom: 1px solid gray;
+    font-size: 15pt;
+    height: 1cm;
+    padding-top: -1px;
+
+}
+.login-matricula button{
+    border: none;
+    width: 7cm;
+    height: 1cm;
+    
+}
+.login-matricula button:hover{
+    border: solid 1px black;
 }
