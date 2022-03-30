@@ -1,0 +1,43 @@
+.fale-comigo-box{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.fale-comigo-box input{
+    margin-bottom: 20px;
+    width: 6cm;
+    height: .5cm;
+    border: none;
+    border-bottom: 1px solid gray;
+    outline: none;
+}
+.fale-comigo-box{
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+}
+.fale-comigo-box span{
+    margin-bottom: 20px;
+    font-size: 18pt;
+}
+.fale-comigo-box textarea{
+    margin-bottom: 20px;
+    width: 8cm;
+    height: 5cm;
+    outline: none;
+    border: gray solid 1px;
+
+}
+.fale-comigo-box button{
+    width: 6cm;
+}
+.fale-comigo-box button:hover{
+    width: 6cm;
+    background-color: #e4edff;
+    opacity: 1;
+    outline: none;
+}
