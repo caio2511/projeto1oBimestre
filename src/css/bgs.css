@@ -18,7 +18,7 @@ html{
     scroll-behavior: smooth;
 }
 .img img{
-    border-radius: 20%;
+    border-radius: 5%;
     position: absolute;
     top: 50%;
     left: 50%;
