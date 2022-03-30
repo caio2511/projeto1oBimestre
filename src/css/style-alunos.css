@@ -15,29 +15,6 @@ form{
     transform: translate(-50%,-50%);
 }
 
-
-.title {
-    position: absolute;
-    left: 51.5%;
-    top: 85%;
-    transform: translate(-50%,-50%);
-    text-align: center;
-    font-size: 30px;
-    background-color:  rgb(0, 81, 255);
-    border-radius: 5px;
-    cursor: pointer;
-    padding: 10px;
-}
-
-.title a:hover{
-    color: rgb(255, 217, 0);
-}
-
-.title a{
-    text-decoration: none;
-    color: white;
-}
-
 .login-matricula{
     display: flex;
     flex-direction: column;
